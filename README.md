@@ -1,6 +1,6 @@
 # i3-8100 H310I Hackintosh OpenCore Catalina
 
-OpenCore Catalina for CoffeLake Architecture 
+OpenCore 0.5.8 Catalina for CoffeLake Architecture 
 
 <b>Configuration</b>
 
@@ -15,10 +15,10 @@ SSD           | Silicon Power 500GB NVMe
 
 <h4>What works?</h4>
 <br>1. Audio </br>
-<br>1. Keyboard & Mouse </br>
-<br>2. Video with dedicated Graphics Card. </br>
-<br>1. Apple Services</br>
-<br>3. iGPU (I'm working on it) </br>
+<br>2. Keyboard & Mouse </br>
+<br>3. Video with dedicated Graphics Card. </br>
+<br>4. Apple Services</br>
+<br>5. iGPU (I'm working on it) </br>
 
 <h3>To modify the config.plist use this tool for windows or mac os:</h3>
 
