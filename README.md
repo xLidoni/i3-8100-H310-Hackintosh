@@ -1,6 +1,6 @@
 # i3-8100 H310I Hackintosh OpenCore Catalina
 
-OpenCore 0.5.8 Catalina for CoffeLake Architecture 
+OpenCore 0.5.9 Catalina for CoffeLake Architecture 
 
 <b>Configuration</b>
 
