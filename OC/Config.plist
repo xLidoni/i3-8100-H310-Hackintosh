@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#WARNING - 5</key>
+	<key>#Author</key>
 	<string>CREATED by xLidoni</string>
 	<key>ACPI</key>
 	<dict>
@@ -205,6 +205,11 @@
 			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
 			<dict>
 				<key>layout-id</key>
+				<data>BQAAAA==</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1b,0x0) 1</key>
+			<dict>
+				<key>AAPL,ig-platform-id</key>
 				<data>AwCSPg==</data>
 			</dict>
 		</dict>
