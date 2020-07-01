@@ -9,7 +9,7 @@ Components    | Product Code
 CPU           | I3 8100
 MOTHERBOARD   | H310I-M Asus Prime
 RAM           | Patriot Viper 3000MHz
-GPU           | Gigabyte RX 460
+GPU           | RX 580 Sapphire
 SSD           | Silicon Power 500GB NVMe
 
 
