@@ -39,6 +39,6 @@ For setting up the SMBIOS info, use CorpNewt's <a href ="https://github.com/corp
 
 https://www.youtube.com/watch?v=6KGuINOyHh0
 
-<img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/101904743_2795738813982571_1241399879603847168_o.jpg?_nc_cat=108&_nc_sid=b9115d&_nc_ohc=GOsyCt6RPg8AX8gxiA6&_nc_ht=scontent-mxp1-1.xx&oh=673b30202a0f7b3ec3359ea12c08ad32&oe=5EFD0466" width="400" >
+<img src=https://scontent-fco1-1.xx.fbcdn.net/v/t1.0-9/106893723_2823160104573775_8625142720928313998_o.jpg?_nc_cat=107&_nc_sid=09cbfe&_nc_ohc=5FXfChBFgr4AX_jiIaO&_nc_ht=scontent-fco1-1.xx&oh=ae019e5fd783a543ba9c2f1ab7354367&oe=5F24870C" width="400" >
 
 
