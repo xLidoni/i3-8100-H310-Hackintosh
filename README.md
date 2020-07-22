@@ -25,7 +25,7 @@ SSD           | Silicon Power 500GB NVMe
 https://github.com/corpnewt/ProperTree
 
 <h3>Use integrated graphics or dedicated graphics</h3>
-In my case i used dGPU (RX460) , so in <strong>ig-platform-id</strong> there is <strong>0300923E</strong> this is used when the Desktop iGPU is <strong>only</strong> used for computing tasks and doesn't drive a display.
+In my case i used dGPU (RX580) , so in <strong>ig-platform-id</strong> there is <strong>0300923E</strong> this is used when the Desktop iGPU is <strong>only</strong> used for computing tasks and doesn't drive a display.
 
 <img src="https://dortania.github.io/OpenCore-Desktop-Guide/images/config/config.plist/coffeelake/DeviceProperties.png" width="400">
 
